@@ -28,4 +28,15 @@ This project demonstrates authentication using Passport.js with a local strategy
 - `package.json`: Project dependencies
 
 ## License
+
+## Results
+
+Below are screenshots from the `public/results` folder:
+
+### Login
+![Login](public/results/login.png)
+
+### Register
+![Register](public/results/register.png)
+
 MIT
